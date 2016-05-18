@@ -1,4 +1,3 @@
-[![Build Status]
 
 parser translate es6
 ===========
